@@ -11,7 +11,7 @@
           ]
         },
         "filters": {
-          "q": "subject:\"우먼파워 대회신청\" is:unread"
+          "q": "subject:\"대회신청\" is:unread"
         },
         "options": {
           "downloadAttachments": true,
