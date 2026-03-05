@@ -118,7 +118,3 @@ mail-register/
     ├── attachments/        # 첨부파일 임시 저장
     └── jobs/               # 발송 config JSON
 ```
-
-## 라즈베리파이 이전
-
-폴더 그대로 복사 후 `docker compose up -d` — ARM 이미지는 Docker가 자동 빌드합니다.
